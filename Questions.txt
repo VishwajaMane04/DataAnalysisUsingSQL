@@ -1,0 +1,22 @@
+Solved these Following 10 Questions
+
+
+1) Identify the artists whose paintings are displayed in multiple countries
+
+2) Which are the top 5 most popular museums? (Popularity is defined based on the number of paintings in a museum)
+
+3) Fetch the top 10 most famous painting subjects
+
+4) Identify the museums which are open on both Sunday and Monday.
+
+5) Identify the top 5 artists whose paintings are displayed in multiple countries
+
+6) Fetch all the paintings which are not displayed at any museums
+
+7) Identify the artist and the museum where the most expensive and least expensive paintings are displayed. Include details such as the artist's name, painting's name, museum name, city
+
+8) Identify the artist with the highest average sale price of their paintings
+
+9) Find the museum with the most diverse collection of painting subjects
+
+10) Which country has the 5th highest no of paintings?
